@@ -1,0 +1,7 @@
+﻿  CMath.cpp
+  REGISTRY.CPP
+  Server10333.cpp
+  Создание кода...
+Server10333.def(6): warning LNK4017: оператор DESCRIPTION не поддерживается на конечной платформе; пропущен
+     Создается библиотека D:\ТКП\Lab1_1\Server10333Sol\Debug\Server10333.lib и объект D:\ТКП\Lab1_1\Server10333Sol\Debug\Server10333.exp
+  Server10333.vcxproj -> D:\ТКП\Lab1_1\Server10333Sol\Debug\Server10333.dll
